@@ -1,6 +1,6 @@
 # My Project
 
-This folder incudes all projects completed by myself. To be continued...
+This folder incudes all projects completed by me. To be continued...
 
 Contents
 
