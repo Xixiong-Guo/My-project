@@ -8,3 +8,4 @@ Contents
 
 2. Kaggle competition [(Santander Customer Transaction Prediction)](https://www.kaggle.com/c/santander-customer-transaction-prediction/overview) --------Use gradient boosting, XGBoosting to builder a classifier, to identify who'll make a transaction.  Got 89.98% accuracy, and ranked as top 22% in the competition.
 (Code will be organized and published soon...)
+
