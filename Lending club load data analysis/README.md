@@ -5,7 +5,7 @@
 
 
 # Data merge and preliminary cleaning
-[Data collection, import and concatenation.ipynb](https://github.com/Xixiong-Guo/My-project/blob/master/Lending%20club%20load%20data%20analysis/Data%20collection%2C%20import%20and%20concatenation.ipynb)
+[1. Data collection, import and concatenation.ipynb](https://github.com/Xixiong-Guo/My-project/blob/master/Lending%20club%20load%20data%20analysis/1.%20Data%20collection%2C%20import%20and%20concatenation.ipynb)
 
 This notebook includes:
 1) Download the raw data from [LendingClub](https://www.lendingclub.com/info/download-data.action)
