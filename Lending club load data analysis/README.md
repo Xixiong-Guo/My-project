@@ -11,3 +11,5 @@ This notebook includes:
 1) Download the raw data from [LendingClub](https://www.lendingclub.com/info/download-data.action)
 2) Concatenation the data from each year/quarter into one dataset
 3) Delete some features with more than 27% missing data, to reduce the memory cost and improve the computing efficiency 
+
+# To be continued
