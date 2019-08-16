@@ -13,7 +13,7 @@ This notebook includes:
 3) Delete some features with more than 27% missing data, to reduce the memory cost and improve the computing efficiency 
 
 # Get to know all the features
-
+[2. Feature explore](https://github.com/Xixiong-Guo/My-project/blob/master/Lending%20club%20load%20data%20analysis/2.%20Feature%20explore%20and%20target%20encode.ipynb)
 This notebook includes:
 1) Explore the meanings of all features from [LendingClub](https://www.lendingclub.com/info/download-data.action).
 Divided the features into 2 categories: Borrower relevant and loan relevant features. 
