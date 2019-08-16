@@ -12,4 +12,12 @@ This notebook includes:
 2) Concatenate the data from each year/quarter into one dataset
 3) Delete some features with more than 27% missing data, to reduce the memory cost and improve the computing efficiency 
 
+# Get to know all the features
+
+This notebook includes:
+1) Explore the meanings of all features from [LendingClub](https://www.lendingclub.com/info/download-data.action).
+Divided the features into 2 categories: Borrower relevant and loan relevant features. 
+2) Further delete a few unrelated features after better understanding the dataset. 
+3) Encode the target feature, classify whether it is a good or bad loan based on the loan_status.
+
 # To be continued
