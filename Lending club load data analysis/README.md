@@ -20,4 +20,12 @@ Divided the features into 2 categories: Borrower relevant and loan relevant feat
 2) Further delete a few unrelated features after better understanding the dataset. 
 3) Encode the target feature, classify whether it is a good or bad loan based on the loan_status.
 
+# Missing data impute
+[3. Missing data impute](https://github.com/Xixiong-Guo/My-project/blob/master/Lending%20club%20load%20data%20analysis/3.%20Missing%20data%20impute.ipynb)
+This notebook includes:
+1) split the training and test dataset.
+2) Impute the missing data, depending on the category of each feature
+
+# EDA (Exploratory data analysis)
+
 # To be continued
