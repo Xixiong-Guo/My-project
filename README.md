@@ -13,3 +13,4 @@ Contents
 
 3. [Lending club loan data analysis](https://github.com/Xixiong-Guo/LandingClubLoanPrediction)-----------Predict whether or not loan will be default using the history data.
 
+4. [Text classification using CNN](https://github.com/Xixiong-Guo/My-project/tree/master/CNN_Sentiment_Analysis) -----Sentiment analysis on movie review dataset
