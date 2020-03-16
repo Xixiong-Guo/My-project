@@ -6,6 +6,7 @@ Dataset: [Movie Review Data from Rotten Tomatoes](http://www.cs.cornell.edu/peop
 
 
 **Updated** : [Notebook](https://github.com/Xixiong-Guo/My-project/blob/master/CNN_Sentiment_Analysis/SentimentAnalysis_TF2.1.ipynb) using TF2.1 and Keras
+
 **Visulize**: Load the .tsv files and visulize the embeddings in [Tensorflow Embedding Projector](http://projector.tensorflow.org/) 
 
 ![Embedding visualization](https://github.com/Xixiong-Guo/My-project/blob/master/CNN_Sentiment_Analysis/image/visualize_embedding.png)
